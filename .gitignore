@@ -1,0 +1,9 @@
+.venv
+.volumes
+test.py
+.env
+old/*
+pgdata
+kafka/data
+__pycache__
+consumer_*.json
